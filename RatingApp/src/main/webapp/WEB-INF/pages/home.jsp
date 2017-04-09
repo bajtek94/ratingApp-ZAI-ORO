@@ -1,7 +1,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
     <head>
-        <title>Titlee</title>
+        <title>RatingApp - Home</title>
     </head>
     <body>
         Hello world!
